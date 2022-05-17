@@ -1,78 +1,61 @@
 credits:
 
-  COlIN HEBERT CREATED  't_01': "audio_media/deteriorated_as_to__excerpt.ogg",
+  COlIN HEBERT CREATED  " //all dungeon snapshot images which are found in the directory :  'NOW_CAVE'// "
 
-The rest were taken by others work.
+                        'arrow_sprite_sheet2.png',
 
- // https://www.youtube.com/watch?v=4SxrgWqpcQY&t=96s
- // running out of time theme :: Ninja Tracks - Running Out Of Time
-  >>>
-     becomes file :
-  >>>
-                 "ninja_running_out_of_time.ogg"
-  >>>
-  {...  't_05': "audio_media/ninja_running_out_of_time.ogg" }
+                        " cave_AUDIO__tracks/'GameMusic__Going_On_With_the_Game__By_Colin_Hebert.mid' ",
 
- // https://www.youtube.com/watch?v=MKw21vuxEFI
- // florescent ballast heating up sound
+                        'bad_END_Untitled331OUT.mid',
 
-  >>>
-     becomes file :
-  >>>
-                 "missBugHitSound.ogg"
-  >>>
-  {...    't_04': "audio_media/missBugHitSound.ogg" }
-
- // https://freesound.org
- // https://freesound.org/people/cribbler/sounds/380381/
-
-  >>>
-     becomes file :
-  >>>
-              "380381__cribbler__squashing-sallad.ogg"
-  >>>
-  {...   't_02': "audio_media/380381__cribbler__squashing-sallad.ogg" }
+                        'good_END_Untitled33OUT.mid' .
 
 
-  // https://freesound.org
-  // https://freesound.org/people/JoseAgudelo/sounds/472399/
+The rest of the media items were taken by other individuals' work.
 
-  >>>
-     becomes file :
-  >>>
-                  "472399__joseagudelo__16-raton-chillando.ogg"
-  >>>
-  {...    't_03': "audio_media/472399__joseagudelo__16-raton-chillando.ogg" }
 
- // https://wiw.org/~jess/multimedia.html
- //
+>>>
+   file_name:
 
-  https://wiw.org/~jess/multimedia/08-%20Space%20Quest%20IV%20(MT-32)-%20Xenon%20Sewers.mp3
+   cartoon-water-drop-burst-animation-concept_1284-40307.webp
+   
+   from :
 
-  >>>
-     becomes file :
-  >>>
-                "08- Space Quest IV (MT-32)- Xenon Sewers.ogg"
-  >>>
-  {...  var used in sketch.js line 12 ::  like the following reproduction:   var audio = new Audio("audio_media/08- Space Quest IV (MT-32)- Xenon Sewers.ogg"); }
+   https://www.freepik.com/free-vector/cartoon-water-drop-burst-animation-concept_10155899.htm
 
 
 
- https://www.turbosquid.com/3d-models/3d-ant-animations-1333816
+>>>
+   file_name:
 
-// original file had code tag: DHQ //
+   2ba42264099087ef5d2a3cc697646f80.jpg
 
-
-  >>>
-     becomes file :
-  >>>
-                "ant_background.jpg"
-
+   from :
+   
+   https://www.pinterest.com/pin/35114072076071962/
 
 
-  https://bigblueboo.tumblr.com/post/92829290894/waveform
 
-  >>>
-     becomes file :
-  >>>
-                "tumblr_n98y5nl9k21rpco88o1_500.gif"
+>>>
+   file_name:
+
+   7d3b99e5af68de433f8c87773313caf6.gif   ( aka  heavenly_clouds.gif )
+
+   from :
+
+   https://www.pinterest.com/pin/345580971396452006/ 	
+
+
+
+>>>
+   file_name:
+
+   Planet_System.gif  ( GIF image )
+
+   [ background comments by artist Baek Seung Eun : 
+         "Doing some sprite work for a secret thing inspired by arcade games about space. (via cloudmelts)"
+   ]
+
+   from :
+
+   https://www.pinterest.co.uk/pin/220113500517066044/
