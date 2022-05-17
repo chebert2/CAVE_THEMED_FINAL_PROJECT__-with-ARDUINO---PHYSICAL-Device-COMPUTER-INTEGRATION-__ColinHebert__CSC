@@ -1,0 +1,61 @@
+credits:
+
+  COlIN HEBERT CREATED  " //all dungeon snapshot images which are found in the directory :  'NOW_CAVE'// "
+
+                        'arrow_sprite_sheet2.png',
+
+                        " cave_AUDIO__tracks/'GameMusic__Going_On_With_the_Game__By_Colin_Hebert.mid' ",
+
+                        'bad_END_Untitled331OUT.mid',
+
+                        'good_END_Untitled33OUT.mid' .
+
+
+The rest of the media items were taken by other individuals' work.
+
+
+>>>
+   file_name:
+
+   cartoon-water-drop-burst-animation-concept_1284-40307.webp
+   
+   from :
+
+   https://www.freepik.com/free-vector/cartoon-water-drop-burst-animation-concept_10155899.htm
+
+
+
+>>>
+   file_name:
+
+   2ba42264099087ef5d2a3cc697646f80.jpg
+
+   from :
+   
+   https://www.pinterest.com/pin/35114072076071962/
+
+
+
+>>>
+   file_name:
+
+   7d3b99e5af68de433f8c87773313caf6.gif   ( aka  heavenly_clouds.gif )
+
+   from :
+
+   https://www.pinterest.com/pin/345580971396452006/ 	
+
+
+
+>>>
+   file_name:
+
+   Planet_System.gif  ( GIF image )
+
+   [ background comments by artist Baek Seung Eun : 
+         "Doing some sprite work for a secret thing inspired by arcade games about space. (via cloudmelts)"
+   ]
+
+   from :
+
+   https://www.pinterest.co.uk/pin/220113500517066044/
